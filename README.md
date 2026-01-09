@@ -1,4 +1,4 @@
-📊 Reporte de Ventas – Eco Me (Looker Studio)
+📊 Reporte de Ventas – Eco Me (Looker Studio), https://lookerstudio.google.com/reporting/44d2cb68-716a-4eee-bf59-6bb592881568
 📌 Descripción del proyecto
 
 Este proyecto consiste en el desarrollo de un reporte interactivo de ventas utilizando Looker Studio, diseñado para la empresa Eco Me.
